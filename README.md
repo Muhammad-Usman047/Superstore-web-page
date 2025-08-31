@@ -18,9 +18,21 @@ It is designed as a front-end only project to showcase a shopping store layout w
 - **JavaScript (Vanilla JS)** – Dynamic behavior and interactions like Sign-in and Sign-up
 
 ## Project Structure
-- `index.html` → Main entry file for the website
-- `style.css` → Styling of the project
-- `script.js` → JavaScript functionality
+SUPERSTORE
+ ┣ index.html
+ ┣ logo.png
+ ┣ main.webp
+ ┣ main1.webp
+ ┣ product1.webp
+ ┣ product2.webp
+ ┣ product3.webp
+ ┣ product4.jpg
+ ┣ product5.png
+ ┣ product6.png
+ ┣ product7.png
+ ┣ product8.jpeg
+ ┣ script.js
+ ┗ style.css
 
 ## How to Run
 1. Clone the repository:
